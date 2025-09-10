@@ -11,7 +11,7 @@ This project was developed by (Nishanth.T, Ranjith.S, Ravichandiran.K, Ronald Pa
 
 ## 📜 Project Description
 
-Insight Stream is a news aggregator and analysis tool designed for a modern, young audience. Instead of just presenting news, it provides a layer of insight by visualizing which sources are covering a topic most frequently. It fetches live news articles from the GNews API, allowing users to search for any topic or filter by popular categories like Technology, Business, and Sports.
+Insight Stream is a news aggregator and analysis tool. It fetches live news articles from the GNews API, allowing users to search for any topic or filter by popular categories like Technology, Business, and Sports.
 
 
 
@@ -38,3 +38,5 @@ The project is built with fundamental web technologies, focusing on clean code a
 ## 🙏 Acknowledgments
 
 -   A huge thanks to [GNews.io](https://gnews.io) for providing the free and easy-to-use news API.
+
+
