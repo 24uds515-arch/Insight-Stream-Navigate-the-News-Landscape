@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insight Stream</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Insight Stream 📊</h1>
+        <p>Navigate the News Landscape</p>
+    </header>
+
+    <main>
+        <div class="controls">
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="Search for news...">
+                <button id="searchButton">Search</button>
+            </div>
+            <div class="filter-container">
+                <button class="filter-btn active" data-category="general">Top Headlines</button>
+                <button class="filter-btn" data-category="technology">Technology</button>
+                <button class="filter-btn" data-category="business">Business</button>
+                <button class="filter-btn" data-category="sports">Sports</button>
+            </div>
+        </div>
+
+        <div class="content-area">
+            <section id="trends-container">
+                <h2>Trending Sources</h2>
+                <div id="trends-content"></div>
+            </section>
+            
+            <section id="news-container">
+                <p class="placeholder">Select a category or search to see the news!</p>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <p>Powered by <a href="https://gnews.io" target="_blank">gnews.io</a></p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
