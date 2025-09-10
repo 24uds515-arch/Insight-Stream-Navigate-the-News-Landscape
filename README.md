@@ -31,7 +31,7 @@ The project is built with fundamental web technologies, focusing on clean code a
 ## 👥 Authors - Group 3
 
 -   **Nishanth.T** - [GitHub Profile](https://github.com/24uds515-arch)
--   **Banjith.S** - [GitHub Profile](https://github.com/)
+-   **Ranjith.S** - [GitHub Profile](https://github.com/)
 -   **Ravichandiran.K** - [GitHub Profile](https://github.com/)
 -   **Ronald Paul Sebastian.A** - [GitHub Profile](https://github.com/)
 
