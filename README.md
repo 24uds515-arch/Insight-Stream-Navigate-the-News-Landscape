@@ -2,7 +2,7 @@
 
 Navigate the News Landscape. A simple and elegant web application for searching, filtering, and analyzing news trends from around the world.
 
-This project was developed by (Nishanth.T, Ranjith.S, Ravichandiran.R, Ronald Paul Sebastian.A)
+This project was developed by (Nishanth.T, Ranjith.S, Ravichandiran.K, Ronald Paul Sebastian.A)
 
 ![Insight Stream-1](https://github.com/user-attachments/assets/aae13086-abd3-41ae-a308-189dde642771)
 ![Insight Stream-2](https://github.com/user-attachments/assets/fa9c0bcf-eac1-4fb1-8548-fa895dd071ec)
@@ -32,7 +32,7 @@ The project is built with fundamental web technologies, focusing on clean code a
 
 -   **Nishanth.T** - [GitHub Profile](https://github.com/24uds515-arch)
 -   **Banjith.S** - [GitHub Profile](https://github.com/)
--   **Ravichandiran.R** - [GitHub Profile](https://github.com/)
+-   **Ravichandiran.K** - [GitHub Profile](https://github.com/)
 -   **Ronald Paul Sebastian.A** - [GitHub Profile](https://github.com/)
 
 ## 🙏 Acknowledgments
